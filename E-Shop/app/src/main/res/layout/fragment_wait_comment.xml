@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragmentsun.WaitCommentFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/My_Wait_Receive_Recy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_10"
+        android:background="@drawable/my_ziliao_test"></android.support.v7.widget.RecyclerView>
+
+</LinearLayout>
